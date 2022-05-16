@@ -9,9 +9,9 @@ You can watch and create this project with [https://www.youtube.com/watch?v=EF33
 
 ## 🌟Screenshots
 
-<p float="left">
-<img src="[https://github.com/seymafirat/crypto-currency-app/blob/main/crypto-currency-app.gif](https://github.com/seymafirat/crypto-currency-app/blob/main/crypto-currency-app.gif)" width="200"/>   
-<img src="[https://github.com/seymafirat/crypto-currency-app/blob/main/no-connection.gif](https://github.com/seymafirat/crypto-currency-app/blob/main/no-connection.gif)" width="200" />     
+<p>
+<img src="https://github.com/seymafirat/crypto-currency-app/blob/main/crypto-currency-app.gif" width="200"/> &emsp;&emsp;&emsp;
+<img src="https://github.com/seymafirat/crypto-currency-app/blob/main/no-connection.gif" width="200" />     
 </p>
 
 ## 🛠Libraries and tools
