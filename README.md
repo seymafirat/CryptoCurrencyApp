@@ -7,7 +7,7 @@ In this project used <a href="[https://api.coinpaprika.com/](https://api.coinpap
 
 You can watch and create this project with [https://www.youtube.com/watch?v=EF33KmyprEQ&t=1281s](https://www.youtube.com/watch?v=EF33KmyprEQ&t=1281s)
 
-## 🌟Screenshot
+## 🌟Screenshots
 
 <p float="left">
 <img src="[https://github.com/seymafirat/crypto-currency-app/blob/main/crypto-currency-app.gif](https://github.com/seymafirat/crypto-currency-app/blob/main/crypto-currency-app.gif)" width="200"/>   
