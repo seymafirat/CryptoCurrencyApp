@@ -16,12 +16,12 @@ You can watch and create this project with [https://www.youtube.com/watch?v=EF33
 
 ## 🛠Libraries and tools
 
-<li><a href="[https://developer.android.com/jetpack/compose?gclid=CjwKCAjw9-KTBhBcEiwAr19ig9HauwNKjaxhqRFikCR3lQgUmEY0nrimD23FE2yHpyV8_FKAq2XkZhoC7pIQAvD_BwE&gclsrc=aw.ds](https://developer.android.com/jetpack/compose?gclid=CjwKCAjw9-KTBhBcEiwAr19ig9HauwNKjaxhqRFikCR3lQgUmEY0nrimD23FE2yHpyV8_FKAq2XkZhoC7pIQAvD_BwE&gclsrc=aw.ds)">Jetpack Compose</a></li>
-<li><a href="[https://square.github.io/retrofit/](https://square.github.io/retrofit/)">Retrofit</a></li>
-<li><a href="[https://developer.android.com/topic/libraries/architecture/coroutines](https://developer.android.com/topic/libraries/architecture/coroutines)">Coroutines</a></li>
+<li><a href="https://developer.android.com/jetpack/compose?gclid=CjwKCAjw9-KTBhBcEiwAr19ig9HauwNKjaxhqRFikCR3lQgUmEY0nrimD23FE2yHpyV8_FKAq2XkZhoC7pIQAvD_BwE&gclsrc=aw.ds">Jetpack Compose</a></li>
+<li><a href="https://square.github.io/retrofit/](https://square.github.io/retrofit/">Retrofit</a></li>
+<li><a href="https://developer.android.com/topic/libraries/architecture/coroutines">Coroutines</a></li>
 
-<li><a href="[https://developer.android.com/training/dependency-injection/hilt-android](https://developer.android.com/training/dependency-injection/hilt-android)">Hilt</a></li>
+<li><a href="https://developer.android.com/training/dependency-injection/hilt-android">Hilt</a></li>
 
-<li><a href="[https://developer.android.com/topic/architecture/domain-layer](https://developer.android.com/topic/architecture/domain-layer)">Use Case</a></li>
+<li><a href="https://developer.android.com/topic/architecture/domain-layer">Use Case</a></li>
 
-<li><a href="[https://developer.android.com/kotlin/flow](https://developer.android.com/kotlin/flow)">Flow</a></li>
+<li><a href="https://developer.android.com/kotlin/flow">Flow</a></li>
