@@ -5,7 +5,7 @@
 You can list cryptocurrencies and see the details about them.
 In this project used <a href="[https://api.coinpaprika.com/](https://api.coinpaprika.com/)">Coinpaprika Api</a>.
 
-You can watch and create this project with [https://www.youtube.com/watch?v=EF33KmyprEQ&t=1281s](https://www.youtube.com/watch?v=EF33KmyprEQ&t=1281s)
+You can watch and create this project with 👉🏻 [https://www.youtube.com/watch?v=EF33KmyprEQ&t=1281s](https://www.youtube.com/watch?v=EF33KmyprEQ&t=1281s)
 
 ## 🌟Screenshots
 
